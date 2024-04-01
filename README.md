@@ -8,13 +8,13 @@ O projeto visa desenvolver um sistema para gerenciamento de pedidos, produtos (c
 
 ## Tecnologias Utilizadas
 
-- Java
+- Java 17
 - Spring Framework (Spring Boot, Spring MVC, Spring Data JPA)
 - Thymeleaf
 - Lombok
 - Hibernate
 - Tomcat (embutido com o Spring Boot)
-- Banco de Dados H2 (para ambiente de desenvolvimento)
+- Banco de Dados H2
 
 ## Funcionalidades Principais
 
@@ -31,6 +31,8 @@ Para executar o projeto localmente, siga estas etapas:
 2. Importe o projeto em sua IDE favorita (recomendado: IntelliJ IDEA, Eclipse).
 3. Certifique-se de ter o Java JDK e o Maven instalados em sua máquina.
 4. Execute o aplicativo como um aplicativo Spring Boot.
+5. Em seu navegador acesse o endereço (http://localhost:8080/) ou (http://localhost:8080/login)
+Isso abrirá a página inicial do projeto, onde você poderá começar a interagir com o sistema de pedidos do McDonald's.
 
 ## Contribuindo
 
